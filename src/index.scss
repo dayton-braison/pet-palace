@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   font-family: 'Fira Sans Condensed', sans-serif;
@@ -7,4 +11,9 @@ body {
 
 code {
   font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: black;
 }
